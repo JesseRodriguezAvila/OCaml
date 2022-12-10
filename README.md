@@ -1,2 +1,2 @@
 # OCaml
-OCaml Functional Programming
+Functional Programming using OCaml
